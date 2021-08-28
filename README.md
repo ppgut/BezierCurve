@@ -1,5 +1,6 @@
 # BezierCurve 
-#VBA 
+#VBA
+
 Creation and manipulation of Bezier Curve on excel chart using chart events.
 
 Chart events - Mouse Down, Mouse Up, Mouse Movement - are used to add functionalities to excel chart.
